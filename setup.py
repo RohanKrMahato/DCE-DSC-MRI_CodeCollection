@@ -14,3 +14,4 @@ setup(
     packages=[f'osipi_code_collection.{module}' for module in find_packages('src')],
 )
 
+
